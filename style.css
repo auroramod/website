@@ -191,7 +191,7 @@ section {
 }
 
 .card {
-    background-color: #000000;
+    background-color: #0b0c0c;
     width: 21.25em;
     box-shadow: 0 5px 25px rgba(1 1 1 / 15%);
     border-radius: 10px;
@@ -232,8 +232,8 @@ section {
 }
 
 .features-card {
-    background-color: #fff;
-    border: 1px solid #fff;
+    background-color: #181A1B;
+    border: 1px solid rgba(255, 255, 255, 0.569);
     min-height: 14em;
     width: 23em;
     overflow: hidden;
