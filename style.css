@@ -65,7 +65,8 @@ section {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background-color: rgb(18, 18, 18);
+    /* background-color: rgb(18, 18, 18); */
+    background-image: url(./images/smoke.png);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
