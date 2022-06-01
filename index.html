@@ -5,9 +5,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"> 
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v6.1.1/css/all.css">
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v6.1.1/css/duotone.css">
     <link rel="stylesheet" href="w3.css">
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="snippet.css">
     <title>Home - H1-Mod</title>
 </head>
 <script>
@@ -19,10 +21,10 @@
 <body>
     <header>
         <a href="https://h1.gg" class="logo"><h3 style="margin-left: 100px;    display: inline-block;
-            margin-top: 10px;color: #19c34c;font-size: 1em;font-weight: 600;border: 1px; border-color: #fff;"><span>H1</span></h3></a>
+            margin-top: 10px;color: #19c34c;font-size: 1em;font-weight: 600;border: 1px; border-color: #fff;"><span><i class="fa fa-h1"></i></span></h3></a>
         <nav class="navigation">
             <div class="w3-dropdown-hover w3-hide-small">
-                <button class="w3-padding-large w3-button" title="SUPPORT">SUPPORT <i class="fas fa-angle-down"></i></button>
+                <button class="w3-padding-large w3-button" title="SUPPORT">H1-Mod <i class="fas fa-angle-down"></i></button>
                 <div class="w3-dropdown-content w3-bar-block w3-card-4">
                 <a onclick="alerto()" class="w3-bar-item w3-button"><i class="fa fa-question"></i> - FAQ</a>
                 <a onclick="alerto()" class="w3-bar-item w3-button"><i class="fa fa-terminal"></i> - CMD</a>
@@ -38,7 +40,6 @@
                   <a onclick="alerto()" class="w3-bar-item w3-button"><i class="fa fa-book"></i> - Docs</a>
                   <a href="https://github.com/h1-mod/h1-mod" class="w3-bar-item w3-button"><i class="fab fa-github"></i> - Github</a>
                   <a onclick="alerto()" class="w3-bar-item w3-button"><i class="fab fa-discord"></i> - Discord</a>
-                  <a onclick="alerto()" class="w3-bar-item w3-button"><i class="fas fa-info-circle"></i> - About us</a>
                 </div>
             </div>
         </nav>
@@ -64,8 +65,41 @@
         </div>
     </section>
 
+    <!-- <section class="scripting" id="">
+        <h2 class="title" style="margin-top: -2.0ch;color: #fff">Scripting<i class="fa-light fa-bolt"></i></h2>
+        <div class="SnippetCard">
+            <div class="SnippetCode">
+                <div class="SnippetCode-wrapper">
+                        <span>
+                            <i class="line-num" data-pseudo-content="1" style="color:#000"></i>
+                            <span class="token-comment">-- Basic Lua script</span>
+                        </span>
+                        <br>
+                        <span>
+                            <i class="line-num" data-pseudo-content="2" style="color:#000"></i>
+                            <span class="token-keyword">local </span><span class="token-keyword" style="color:#000;">Test</span><span class="token-keyword" style="color:rgb(104, 104, 104);"> = </span><span class="token-keyword" style="color:rgb(210, 158, 26);">"Just a test men"</span>
+                        </span>
+                        <br>
+                        <span>
+                            <i class="line-num" data-pseudo-content="3" style="color:#000"></i>
+                        </span>
+                        <br>
+                        <span>
+                            <i class="line-num" data-pseudo-content="4" style="color:#000"></i>
+                        </span>
+                        <br>
+                        <span>
+                            <i class="line-num" data-pseudo-content="5" style="color:#000"></i>
+                            <span class="token-keyword" style="color:rgb(150, 150, 150);">print</span><span class="token-keyword" style="color:rgb(91, 91, 91);">(</span><span class="token-keyword" style="color:#000;">Test</span><span class="token-keyword" style="color:rgb(91, 91, 91);">)</span>
+                        </span>
+                </div>
+            </div>
+        </div>
+    </div>
+    </section> -->
+
     <section class="cards" id="services">
-        <h2 class="title" style="margin-top: -2.0ch;">Services</h2>
+        <h2 class="title" style="margin-top: -2.0ch;margin-left: 1ch;color: #fff">Services<i class="fal fa-gears"></i></h2>
         <div class="content">
             <div class="card">
                 <div class="icon">
@@ -78,7 +112,7 @@
             </div>
             <div class="card">
                 <div class="icon">
-                    <i class="fas fa-code"></i>
+                    <i class="fa fa-code"></i>
                 </div>
                 <div class="info">
                     <h3>Scripting Support</h3>
@@ -87,7 +121,7 @@
             </div>
             <div class="card">
                 <div class="icon">
-                    <i class="fa fa-gamepad"></i>
+                    <i class="fa fa-gamepad-modern"></i>
                 </div>
                 <div style="height: 100px;"><div class="info">
                     <h3>Controller Support</h3>
@@ -98,7 +132,7 @@
     </section>
 
     <section class="features" id="features">
-        <h2 class="title" style="margin-top: -2.0ch;">Features</h2>
+        <h2 class="title" style="margin-top: -2.0ch;margin-left: 2ch;color: #fff">Features<i style="color: #fff;" class="fa-light fa-stars"></i></h2>
         <div class="content">
             <div class="features-card">
                 <div class="features-image">
@@ -166,23 +200,22 @@
                 </div>
                 <div class="features-info">
                     <strong class="features-title">
-                        <span>DLC Maps</span>
+                        <span>More Fun! <i class="fas fa-meteor"></i></span>
                         <a href="#" class="more-details">More Info</a>
                     </strong>
-                    <p class="features-category">All DLC content now works with no problems!</p>
+                    <p class="features-category">We've added alot of fun stuff such as bouncing, elevators, noclip and godmode command!</p>
                 </div>
             </div>
         </div>
     </section>
 
     <footer class="footer">
-        <p class="footer-title">H1-Mod ©</p>
-        <center><p class="footer-desc">H1-Mod is not affiliated with Activision-Blizzard Inc, Infinity Ward or Raven Software. All rights belong to their respective owners.</p></center>
+        <p class="footer-title">H1-Mod <span style="color: #19c34c;"><i class="fas fa-code"></i></span></p>
+        <center><p class="footer-desc">H1-Mod 1.15 is not affiliated with Activision-Blizzard Inc, Infinity Ward or Raven Software. All rights belong to their respective owners.</p></center>
         <div class="social-icons">
             <a onclick="alerto()"><i class="fab fa-discord"></i></a>
             <a href="https://github.com/h1-mod"><i class="fab fa-github"></i></a>
         </div>
     </footer>
-
 </body>
 </html>
