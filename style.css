@@ -245,6 +245,14 @@ section {
     background-color: #0e0e0e;
 }
 
+.faq {
+    background-color: #0e0e0e;
+}
+
+.cmd {
+    background-color: #0e0e0e;
+}
+
 .script {
     backdrop-filter: blur(10px);
     width: 21.25em;
