@@ -249,6 +249,10 @@ section {
     background-color: #0e0e0e;
 }
 
+.errors {
+    background-color: #0e0e0e;
+}
+
 .cmd {
     background-color: #cbcbcb;
 }
