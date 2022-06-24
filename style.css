@@ -245,8 +245,47 @@ section {
     background-color: #0e0e0e;
 }
 
+.donate {
+    background-color: #0e0e0e;
+}
+
 .cmd {
     background-color: #cbcbcb;
+}
+
+.form-input {
+    margin-bottom: 15px;
+}
+
+.form__inner label {
+    font-size: 16px;
+    line-height: 25px;
+    padding-left: 21ch;
+    max-width: 100%;
+    margin-bottom: 5px;
+    color: #fff;
+    display: inline-block;
+    
+}
+
+.form__inner input[type="text"],
+.form__inner textarea {
+  outline: none;
+  width: 55%;
+  font-size: 16px;
+  line-height: 20px;
+  margin-bottom: 15px;
+  color: #333;
+  padding: 12px 20px;
+  font-family: inherit;
+  text-align: left;
+  -webkit-appearance: none;
+  background: rgba(255, 154, 66, 0.02);
+  display: grid;
+  align-items: center;
+  padding-left: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
 }
 
 .script {
