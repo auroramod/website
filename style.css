@@ -115,7 +115,7 @@ section {
     /* font-family: fira_mono_bold; */
     display: inline-block;
     margin-top: 10px;
-    color: #19c34c;
+    color: #49E879;
     font-size: 3em;
     font-weight: 600;
 }
@@ -311,20 +311,17 @@ section {
 }
 
 .cards {
-    background-color: #000000;
+    background-color: #040404;
 }
 
 .card {
-    backdrop-filter: blur(10px);
     width: 21.25em;
-    box-shadow: 0 5px 25px rgba(1 1 1 / 15%);
     border-radius: 10px;
-    border: 1px solid #fff;
+    border: 1px solid #303436;
     padding: 25px;
     margin: 15px;
     transition: 0.7s ease;
     background: inherit;
-    box-shadow: inset 0 0 2000px rgba(255, 255, 255, 0.272);
 }
 
 .card:before {
@@ -347,14 +344,14 @@ section {
 }
 
 .info h3{
-    color: #19c34c;
+    color: #49E879;
     font-size: 1.2em;
     font-weight: 700;
     margin: 10px;
 }
 
 .features {
-    background-color: rgb(18, 18, 18);
+    background-color: #0E0F0F;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -375,8 +372,8 @@ section {
 }
 
 .features-card {
-    background-color: #181A1B;
-    border: 1px solid rgba(255, 255, 255, 0.569);
+    background-color: #131516;
+    border: 1px solid #303436;
     min-height: 14em;
     width: 23em;
     overflow: hidden;
@@ -419,11 +416,11 @@ section {
 
 .more-details {
     text-decoration: none;
-    color: #19c34ce3;
+    color: #49E879e3;
 }
 
 .more-details:hover {
-    color: #19c34c;
+    color: #49E879;
 }
 
 .contact .icon{
@@ -532,10 +529,11 @@ section {
 
 ::-webkit-scrollbar-track {
     background: #cfcfcf;
+    background-color: #333739;
 }
 
 ::-webkit-scrollbar-thumb {
-    background: #19C34C; 
+    background: #49E879; 
 }
   
 ::-webkit-scrollbar-thumb:hover {
