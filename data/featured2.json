@@ -1,0 +1,12 @@
+{
+    "action_title": "Custom Depot System",
+    "image": "h1_motd_dlc_360x200_ch_mtx6_kits",
+    "title": "<h2>Custom Depot System</h2>",
+    "content_short": "",
+    "h3_header": "<h3>^3No COD Points!^7</h3>",
+    "content_long": "<body>We've added a new depot system to the game<br/><br/>Which you can now collect credits/parts from playing to be used with depots!</body>",
+    "popup_action_title": "Press 'Esc' or 'Enter' to close",
+    "popup_action": "depot",
+    "popup_image": "h1_motd_dlc_620x580_ch_mtx6_kits",
+    "action": "popup"
+}
