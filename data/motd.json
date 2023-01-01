@@ -1,8 +1,8 @@
 {
     "title": "<h2>Message of the Day</h2>",
     "content_short": "",
-    "h3_header": "<h3>^2Welcome to H1-Mod^7</h3>",
-    "content_long": "<body>Join our discord to stay tuned for latest updates and news: ^5https://discord.gg/RzzXu5EVnh^7<br/><br/>Visit ^2https://h1.gg^7 for further information!</body>",
+    "h3_header": "<h3>Welcome to ^2H1-Mod!^7</h3>",
+    "content_long": "<body>Join our Discord for latest updates and news: ^5https://discord.gg/RzzXu5EVnh^7<br/><br/>Visit ^2https://h1.gg^7 for more information about H1!</body>",
     "popup_action_title": "Press 'Esc' or 'Enter' to close",
     "popup_action": "",
     "popup_image": "h1_motd_template_1_2"
