@@ -3,7 +3,8 @@
     "content_short": "",
     "h3_header": "<h3>Welcome to ^2H1-Mod!^7</h3>",
     "content_long": "<body>Join our Discord for latest updates and news: ^5https://discord.gg/RzzXu5EVnh^7<br/><br/>Visit ^2https://h1.gg^7 for more information!</body>",
-    "popup_action_title": "Press 'Esc' or 'Enter' to close",
+    "popup_action_title": "Press ^2[ESC]^7 or ^2[ENTER]^7 to close",
     "popup_action": "",
-    "popup_image": "h1_motd_template_1_2"
+    "popup_image": "h1_motd_template_1_2",
+    "noHtml": false
 }
