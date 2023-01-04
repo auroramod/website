@@ -229,7 +229,7 @@ h6 {
 }
 
 h1,h2,h3,h4,h5,h6 {
-    font-family: "Segoe UI",Arial,sans-serif;
+    font-family: Segoe UI,SegoeUI,Selawik,Helvetica Neue,Helvetica,Arial,sans-serif;
     font-weight: 400;
     margin: 10px 0
 }
@@ -424,7 +424,8 @@ a {
 
 .w3-dropdown-hover:hover > .w3-button:first-child,.w3-dropdown-click:hover > .w3-button:first-child {
     background-color: #1B1B1B;
-    color: #fff
+    color: #fff;
+    cursor: default;
 }
 /* hey 111 */
 
@@ -772,6 +773,12 @@ a {
     }
 }
 
+@media (max-width: 270px) {
+    .w3-hide-small {
+        display: none !important
+    }
+}
+
 @media (max-width: 600px) {
     .w3-modal-content {
         margin:0 10px;
@@ -784,10 +791,6 @@ a {
 
     .w3-dropdown-hover.w3-mobile .w3-dropdown-content,.w3-dropdown-click.w3-mobile .w3-dropdown-content {
         position: relative
-    }
-
-    .w3-hide-small {
-        display: none!important
     }
 
     .w3-mobile {
