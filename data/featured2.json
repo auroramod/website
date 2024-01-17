@@ -1,8 +1,8 @@
 {
-    "action_title": "Custom ^3Depot ^7System",
-    "title": "<h2>Custom ^3Depot ^7System</h2>",
+    "action_title": "Custom Depot ^7System",
+    "title": "<h2>Custom Depot ^7System</h2>",
     "image": "h1_motd_dlc_360x200_ch_mtx6_kits",
-    "content_short": "<h3>^3No more COD Points!^7</h3>",
+    "content_short": "<h3>^3No more Call of Duty Points!^7</h3>",
     "content_long": "<body>We've reimplemented the Depot system in the game, which you can now use to collect credits & parts. You simply earn them by just playing matches and ranking up! To use these credits & parts, head to the Depot.</body>",
     "popup_action_title": "Press ^2[ESC]^7 or ^2[ENTER]^7 to close",
     "popup_action": "depot",

@@ -1,12 +1,12 @@
 {
     "action_title": "Message of the Day",
     "title": "<h2>Message of the Day</h2>",
-    "image": "h1_motd_360x200_mp_vacant",
+    "image": "h1_motd_360x200_mp_gaves",
     "content_short": "",
     "content_long": "<body>Welcome to ^2H1-Mod.^7 Have fun!</body>",
     "popup_action_title": "Press ^2[ESC]^7 or ^2[ENTER]^7 to close",
     "popup_action": "",
-    "popup_image": "h1_motd_620x580_mp_vacant",
+    "popup_image": "h1_motd_620x580_mp_graves",
     "action": "popup",
     "noHtml": false
 }
