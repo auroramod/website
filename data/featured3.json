@@ -1,0 +1,12 @@
+{
+    "action_title": "Mod Support",
+    "title": "<h2>Mod Support</h2>",
+    "image": "h1_motd_360x200_mp_countdown",
+    "content_short": "",
+    "content_long": "You can now use completely custom mods & custom maps inside of MWR with the power of H1-Mod! Check our documentation or Discord for more information.",
+    "popup_action_title": "Press ^2[ESC]^7 or ^2[ENTER]^7 to close",
+    "popup_action": "",
+    "popup_image": "h1_motd_620x580_mp_countdown",
+    "action": "popup",
+    "noHtml": false
+}

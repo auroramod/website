@@ -1,5 +1,6 @@
 {
-    "title": "<h2><span class=\"blue\">Discord</span></h2>",
+    "action_title": "^5Discord",
+    "title": "<h2>^5Discord</h2>",
     "image": "h1_motd_360x200_mp_crash",
     "content_short": "",
     "content_long": "<body>Join the official ^5Discord^7: https://discord.gg/6pSNTjtTCG</body>",
