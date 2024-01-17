@@ -1,10 +1,11 @@
 {
-    "title": "<h2>Message of the Day</h2>",
-    "content_short": "",
-    "h3_header": "<h3>Welcome to ^2H1-Mod!^7</h3>",
-    "content_long": "<body>Join our Discord for latest updates and news! ^5https://discord.gg/RzzXu5EVnh^7</body>",
+    "title": "<h1>Message of the Day</h1>",
+    "image": "motd_image",
+    "content_short": "<h2>Welcome to ^2H1-Mod.^7 Have fun!</h2>",
+    "content_long": "",
     "popup_action_title": "Press ^2[ESC]^7 or ^2[ENTER]^7 to close",
     "popup_action": "",
     "popup_image": "motd_image",
+    "action": "popup",
     "noHtml": false
 }

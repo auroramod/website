@@ -1,10 +1,8 @@
 {
-    "action_title": "Custom Depot System",
+    "title": "<h1>Custom Depot System</h1>",
     "image": "h1_motd_dlc_360x200_ch_mtx6_kits",
-    "title": "<h2>Custom Depot System</h2>",
-    "content_short": "",
-    "h1_header": "<h1>^3No more COD Points!^7</h1>",
-    "content_long": "<body>We've reimplemented the Depot system in the game, which you can now use to collect credits/parts from playing to be used with with the Depot. You simply earn them by just playing matches and ranking up!</body>",
+    "content_short": "<h2>^3No more COD Points!^7</h2>",
+    "content_long": "<body>We've reimplemented the Depot system in the game, which you can now use to collect credits & parts. You simply earn them by just playing matches and ranking up! To use these credits & parts, head to the Depot.</body>",
     "popup_action_title": "Press ^2[ESC]^7 or ^2[ENTER]^7 to close",
     "popup_action": "depot",
     "popup_image": "h1_motd_dlc_620x580_ch_mtx6_kits",

@@ -1,10 +1,8 @@
 {
-    "action_title": "Update v2.0.0",
+    "title": "<h1><span class=\"blue\">Discord</span></h1>",
     "image": "h1_motd_360x200_mp_crash",
-    "title": "<h2>Update v2.0.0</h2>",
-    "content_short": "",
-    "h1_header": "<h1>Changelog:</h1>",
-    "content_long": "<body>- Added Wine/Proton compatibility<br/>- Added custom zones/maps/weapons support<br/>- Added usermap/mod downloading<br/>- Added GSC support<br/><br/>View the full changelog via: ^2https://github.com/h1-mod/docs/blob/main/docs/changelog.md^7.</body>",
+    "content_short": "<h2>Join the official ^5Discord^7: https://discord.gg/6pSNTjtTCG</h2>",
+    "content_long": "",
     "popup_action_title": "Press ^2[ESC]^7 or ^2[ENTER]^7 to close",
     "popup_action": "",
     "popup_image": "h1_motd_620x580_mp_crash",
