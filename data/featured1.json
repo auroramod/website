@@ -1,8 +1,8 @@
 {
-    "title": "<h1><span class=\"blue\">Discord</span></h1>",
+    "title": "<h2><span class=\"blue\">Discord</span></h2>",
     "image": "h1_motd_360x200_mp_crash",
-    "content_short": "<h2>Join the official ^5Discord^7: https://discord.gg/6pSNTjtTCG</h2>",
-    "content_long": "",
+    "content_short": "",
+    "content_long": "<body>Join the official ^5Discord^7: https://discord.gg/6pSNTjtTCG</body>",
     "popup_action_title": "Press ^2[ESC]^7 or ^2[ENTER]^7 to close",
     "popup_action": "",
     "popup_image": "h1_motd_620x580_mp_crash",
