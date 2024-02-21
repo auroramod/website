@@ -52,7 +52,7 @@
 body {
     background-attachment: fixed;
     margin: 0;
-    background-color: #111011;
+    background-color: #202020;
 }
 
 header {
@@ -71,7 +71,7 @@ header {
 
 .logo{
     text-decoration: none;
-    color: #3a6cf4;
+    color: rgb(209, 42, 255);
     text-transform: uppercase;
     font-weight: 700;
     font-size: 1.8em;
@@ -86,7 +86,7 @@ header {
 }
 
 .navigation a:hover{
-    color: #26a34b;
+    color: rgb(209, 42, 255);
 }
 
 section {
@@ -118,7 +118,7 @@ h1, h2 {
 .main h2 span {
     display: inline-block;
     margin-top: 10px;
-    color: #49E879;
+    color: #ec2bfe;
     font-size: 3em;
     font-weight: 600;
 }
@@ -134,16 +134,17 @@ h1, h2 {
 
 .docs-btn {
     color: black;
-    background-color: #54cf79c1;
     text-decoration: none;
     font-size: 1.1em;
     font-weight: 600;
     display: inline-block;
     padding: 0.9375em 2.1875em;
     letter-spacing: 0.5px;
-    border-radius: 8px;
+    border-radius: 10px;
     margin-bottom: 40px;
     transition: 0.7s ease;
+    background-size: 800% 800%;
+    animation: colorRotate 6s linear 0s infinite;
 }
 
 .main-btn:hover, .docs-btn:hover {
@@ -173,19 +174,19 @@ h1, h2 {
 
 @keyframes colorRotate {
     from {
-        background-color: #a8ff66;
+        background-color: #e866ff;
     }
     10% {
-        background-color: #92ff33;
+        background-color: #cf33ff;
     }
     50% {
-        background-color: #00ff00;
+        background-color: #a11bca;
     }
     75% {
-        background-color: #92ff33;
+        background-color: #cf33ff;
     }
     100% {
-        background-color: #a8ff66;
+        background-color: #e866ff;
     }
 }
 
@@ -214,7 +215,7 @@ h1, h2 {
 .title {
     display: flex;
     justify-content: center;
-    color: #26a34b;
+    color: #8a26a3;
     font-size: 2.2em;
     font-weight: 800;
 }
@@ -319,7 +320,7 @@ h1, h2 {
 }
 
 .info h3{
-    color: #49E879;
+    color: #e549e8;
     font-size: 1.2em;
     font-weight: 700;
     margin: 10px;
@@ -406,11 +407,11 @@ h1, h2 {
 
 .more-details {
     text-decoration: none;
-    color: #49E879e3;
+    color: #db49e8e3;
 }
 
 .more-details:hover {
-    color: #49E879;
+    color: rgb(255, 132, 212)e3;
 }
 
 .contact .icon{
@@ -450,7 +451,7 @@ h1, h2 {
 }
 
 .footer-title span {
-    color: #3a6cf4;
+    color: #ff43d3;
 }
 
 .footer .social-icons a{
@@ -520,7 +521,7 @@ header a.logo h3 {
     margin-left: 100px;
     display: inline-block;
     margin-top: 10px;
-    color: #19c34c;
+    color: #ec2bfe;
     font-size: 1em;
     font-weight: 600;
     border: 1px;
@@ -600,9 +601,9 @@ header a.logo h3 {
 }
 
 ::-webkit-scrollbar-thumb {
-    background: #49E879;
+    background: #e849e3;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background: #128d37;
+    background: #d941ff;
 }
