@@ -1,0 +1,31 @@
+{
+    "MP_MOTD": {
+        "title": "Message of The Day",
+        "image": "image_motd_mp_generic01",
+        "popup_image": "image_motd_mp_generic01_small",
+        "content_long": "Welcome to ^2IW7-Mod.^7 Have fun!\nJoin our Discord for news, updates and support.",
+        "content_short": "Message of The Day",
+        "action": "popup",
+        "action_title": ""
+    },
+    "MP_MSGS": [
+        {
+            "title": "Changelog v1.1.0",
+            "image": "image_motd_mp_halloween_halloween",
+            "popup_image": "image_motd_mp_halloween_halloween_small",
+            "content_long": "Fixed bot difficulty not changing iw7-mod#684.\nFixed Fate Cards resetting after session iw7-mod#670.\nFixed rare zombie crate rewards 9522fce.\nFixed particle effect flickering on AMD GPUs.\nFixed Steam game overlay not rendering correctly.\nMajorly improved Combat Training (18 bots, map vote, fixed bugs).\nAdded Gamemode Settings to Combat Training to configure matches however you like.\nFully implemented bg_bounces dvar.\nAdded getviewpos, setviewpos, getviewang, setviewang commands.\nAdded legacy mantling mantle_legacy dvar.\nAdded D3D11on12 support.\nAdded ImGui overlay in debug builds to assist in modding.\nAdded Mission Team and contract rewards.\nAdded multi-instance support.\nSalvage & keys are now properly awarded at the end of matches.\nSalvage can now be earned just by simply playing games.\nAdditional bug and crash fixes.",
+            "content_short": "Changelog v1.1.0",
+            "action": "popup",
+            "action_title": ""
+        }
+    ],
+    "CP_MOTD": {
+        "title": "Message of The Day",
+        "image": "image_motd_mp_zm",
+        "popup_image": "image_motd_mp_zm_small",
+        "content_long": "Welcome to ^2IW7-Mod.^7 Have fun!\nJoin our Discord for news, updates and support.",
+        "content_short": "Message of The Day",
+        "action": "popup",
+        "action_title": ""
+    }
+}
